@@ -10,7 +10,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                echo 'Testing from GitHub...'
+                echo 'FINAL TEST!!!'
             }
         }
     }
